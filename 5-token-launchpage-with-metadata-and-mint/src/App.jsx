@@ -22,7 +22,7 @@ function App() {
                 padding: 20
               }}>
                 <WalletMultiButton />
-                <WalletDisconnectButton />
+                
               </div>
               <TokenLaunchpad></TokenLaunchpad>
             </WalletModalProvider>
